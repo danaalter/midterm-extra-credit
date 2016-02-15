@@ -1,0 +1,84 @@
+<!doctype html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
+
+<title>XtraCredit</title>
+<style>
+body {
+  background-image: url(https://static.pexels.com/photos/425/apple-iphone-desk-office-large.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 13.5px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  margin-top: 200px;
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  margin-bottom: 80px;
+}
+.word-1 {
+color: #00BFFF;
+}
+
+.word-2{
+  color: #00BFFF;
+}
+.start{
+  margin-bottom: 80px;
+  border: 1px solid #00BFFF;
+  background-color: #00BFFF;
+  padding-top:5px;
+  padding-bottom: 5px;
+  padding-right: 75px;
+  padding-left: 75px;
+  border-radius: 2px;
+ 
+}
+
+.due{
+  color: #00BFFF;
+  font-size: 11px;
+}
+
+.easy{
+  margin-top: 80px;
+}
+p {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+</style>
+</head>
+
+
+<h1>EXTRA CREDIT</h1>
+<h2>Code this website!</h2>
+
+<body>
+<p>
+<span class="start">START NOW!</span>
+
+<p> It's easy if you know your <span class="word-1">HTML</span> and <span class="word-2">CSS</span></p>
+<span class="due">Due Week 6</span></p>
+</body>
+
+
+
+
+https://github.com/danaalter/midterm-extra-credit.git
